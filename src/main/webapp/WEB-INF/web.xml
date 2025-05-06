@@ -4,6 +4,7 @@
 	version="2.5">
 
 	<display-name>Gradle + Spring MVC Hello World + XML</display-name>
+	<display-name>MAPR + MBR + BMR </display-name>
 	<description>Spring MVC web application</description>
 
 	<!-- For web context -->
