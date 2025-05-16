@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
 <title>Maven + Spring MVC</title>
+<title>MAPR + MBR</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -15,6 +16,7 @@
 	<div class="container">
 		<div class="navbar-header">
 			<a class="navbar-brand" href="#">Project</a>
+                         <a class="navbar-brand" href="#">MAPR</a>
 		</div>
 	</div>
 </nav>
@@ -40,15 +42,16 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to Mithun Technologies Private Limited, Bengaluru, Karnataka, India</h2>
-			<h3>Contact @ +91 9980923216</h3>
+			<h2>Welcome to Mapr Technologies Private Limited, Bengaluru, Karnataka, India</h2>
+			<h3>Contact @ +91 0987654321</h3>
+                        <h3>email @ mapr.mbr@gmail.com</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2025</p>
+		<p>&copy; MBR Technologies 2025</p>
 	</footer>
 </div>
 
