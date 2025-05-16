@@ -17,6 +17,8 @@
 		<div class="navbar-header">
 			<a class="navbar-brand" href="#">Project</a>
                          <a class="navbar-brand" href="#">MAPR</a>
+                         <a class="navbar-brand" href="#">ContactDetails</a>
+                         <a class="navbar-brand" href="#">email</a>
 		</div>
 	</div>
 </nav>
