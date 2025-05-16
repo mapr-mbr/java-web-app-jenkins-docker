@@ -25,7 +25,7 @@ public class HelloWorldService {
 		if(StringUtils.isEmpty(name)){
 			return "Hello from MAPR_MBR Technologies";
 		}else{
-			return "Hello " + name;
+			return "Hello  mbr" + name;
 		}
 		
 	}
