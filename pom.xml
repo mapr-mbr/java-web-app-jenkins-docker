@@ -28,6 +28,9 @@
 		<sonar.host.url>http://172.31.45.95:9000/</sonar.host.url>
 		<sonar.login>squ_4d56b501c8308fe7c3c44ac08055fbb17b4c4772</sonar.login>
 	</properties>
+	<properties>
+    <sonar.java.binaries>target/classes</sonar.java.binaries>
+</properties>
 
 	<dependencies>
 
