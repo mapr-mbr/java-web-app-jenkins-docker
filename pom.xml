@@ -100,7 +100,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	 <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -111,7 +111,7 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://172.31.46.205:9945/repository/java-web-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<plugins>
