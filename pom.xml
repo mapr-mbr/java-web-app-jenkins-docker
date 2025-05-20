@@ -7,14 +7,14 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 	
-	<name>Java Web Application</name>
+	<name>Maven Web Application</name>
 	<url>http://mithuntechnologies.com</url>
 	
-	<description>Java Web Project</description>
+	<description>Maven Web Project</description>
 
 	<organization>
-		<name>MAPR Technologies</name>
-		<url>http://mapr.com/</url>
+		<name>Mithun Technologies</name>
+		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -25,10 +25,6 @@
 		<log4j.version>1.2.17</log4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.host.url>http://172.31.45.95:9000/</sonar.host.url>
-		<sonar.login>squ_4d56b501c8308fe7c3c44ac08055fbb17b4c4772</sonar.login>
-		<jdk.version>1.8</jdk.version>
-
 	</properties>
 
 	<dependencies>
@@ -102,18 +98,18 @@
 
 	</dependencies>
 	
-	 <distributionManagement>
+	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.46.205:9945/repository/java-web-Release/</url>
+	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.46.205:9945/repository/java-web-snapshot/</url>
+	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> 
+	</distributionManagement> -->
 	
 	<build>
 		<plugins>
